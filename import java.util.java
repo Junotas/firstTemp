@@ -20,7 +20,7 @@ class Main {
    * Just make sure these exact messages are used.
    */
   // 1. Contants
-  static final String GAME_START = "Welcome to dice game 12. You must roll 1-3 dice and try to get the sum of 12 ...\n";
+  static final String GAME_START = "Welcome to dice game 12 MF. You must roll 1-3 dice and try to get the sum of 12 ...\n";
   static final String CHOOSE_DICE = "Enter which dice you want to roll [1,2,3] (exit with q):";
   static final String ROUND_WON = "You won!!";
   static final String ROUND_LOST = "You lost!!";
