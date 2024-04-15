@@ -8,7 +8,7 @@ class Main {
    * the game, either way the game will restart until the user decided to exit the
    * game by pressing "q".
    * 
-   * 
+   * ny ändring rad 11
    *
    * ludfen-4
    */
